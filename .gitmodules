@@ -1,0 +1,3 @@
+[submodule "Submodule-Practice"]
+	path = Submodule-Practice
+	url = https://github.com/CedCuevas/Submodule-Practice.git
