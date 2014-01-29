@@ -1,3 +1,6 @@
 [submodule "Submodule-Practice"]
 	path = Submodule-Practice
 	url = https://github.com/CedCuevas/Submodule-Practice.git
+[submodule "subtwo"]
+	path = subtwo
+	url = https://github.com/CedCuevas/DecoratedBox.git
